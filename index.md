@@ -1,6 +1,3 @@
-layout: default
-title: Artur Piernikarczyk – Strona Osobista
-description: V&V Specialist | Embedded Systems Engineer | R&D-Driven Innovator | Test Automation Architect | Creator of Smart Labs & Quality Solutions
 ---
 
 <div style="display:flex;align-items:center;justify-content:center;flex-direction:column;background:linear-gradient(135deg,#c2b280 0%,#e3e3e3 100%);padding:2.5em 1em 2em 1em;border-radius:1.5em;margin-bottom:2em;box-shadow:0 4px 32px 0 rgba(194,178,128,0.12);">
