@@ -1,28 +1,41 @@
+
 layout: default
 title: Artur Piernikarczyk – Strona Osobista
 description: V&V Specialist | Embedded Systems Engineer | R&D-Driven Innovator | Test Automation Architect | Creator of Smart Labs & Quality Solutions
 ---
 
-![Profilowe Artur Piernikarczyk](/assets/img/profilowe.jfif){: style="max-width:200px;border-radius:50%;margin-bottom:1em;" }
+<div style="display:flex;align-items:center;justify-content:center;flex-direction:column;background:linear-gradient(135deg,#c2b280 0%,#e3e3e3 100%);padding:2.5em 1em 2em 1em;border-radius:1.5em;margin-bottom:2em;box-shadow:0 4px 32px 0 rgba(194,178,128,0.12);">
+	<img src="/assets/img/profilowe.jfif" alt="Profilowe Artur Piernikarczyk" style="width:160px;height:160px;object-fit:cover;border-radius:50%;box-shadow:0 2px 16px #b2bec3; margin-bottom:1em;">
+	<h1 style="margin:0;font-size:2.5em;font-weight:700;color:#232526;letter-spacing:1px;">Artur Piernikarczyk</h1>
+	<div style="font-size:1.2em;color:#6c6c6c;font-weight:500;margin-top:0.5em;text-align:center;max-width:600px;">
+		V&amp;V Specialist &bull; Embedded Systems Engineer &bull; R&amp;D-Driven Innovator &bull; Test Automation Architect
+	</div>
+</div>
 
-# Artur Piernikarczyk
+<section style="max-width:800px;margin:0 auto 2em auto;padding:1.5em 1.5em 1em 1.5em;background:#fff7e6;border-radius:1.2em;box-shadow:0 2px 12px 0 rgba(194,178,128,0.08);">
+	<h2 style="color:#c2b280;margin-top:0;">O mnie</h2>
+	<p style="font-size:1.1em;line-height:1.7;color:#232526;">
+		Wspieram projekty i współpracuję w obszarach m.in.: <b>testy produktu, rozwój systemów elektronicznych, automatyzacja testów i rozwój laboratoriów R&amp;D</b>.<br>
+		<span style="color:#b2bec3;font-weight:500;">Zapraszam do kontaktu.</span>
+	</p>
+</section>
 
-**V&V Specialist | Embedded Systems Engineer | R&D-Driven Innovator | Test Automation Architect**  
-Creator of Smart Labs & Quality Solutions | Bridging Electronics with Excellence.
+<section style="max-width:800px;margin:0 auto 2em auto;padding:1.5em 1.5em 1em 1.5em;background:#f5e9da;border-radius:1.2em;box-shadow:0 2px 12px 0 rgba(194,178,128,0.08);">
+	<h2 style="color:#c2b280;margin-top:0;">Kilka słów o moim doświadczeniu</h2>
+	<ul style="font-size:1.08em;line-height:1.7;color:#232526;">
+		<li>Doświadczony Specjalista ds. Weryfikacji i Walidacji systemów elektronicznych dla branży automotive. Współtwórca nowoczesnego laboratorium R&amp;D oraz deweloper testów automatycznych zgodnych ze standardami automotive.</li>
+		<li>Inżynier ds. testów produktu dla branży elektroniki mocy, doświadczony w testach kwalifikacyjnych produktu (normy IEC/UL) oraz pracy w laboratorium badawczo-rozwojowym. Współtwórca laboratorium R&amp;D w zakresie doboru rozwiązań technicznych, koordynacji prac, a także udziału w akredytacji ANAB/UL.</li>
+		<li>Inżynier Automatyk z dużym doświadczeniem we wdrażaniu nowych rozwiązań, modyfikacji istniejących oraz diagnostyce i serwisie instalacji automatyki. Programista PLC (online/offline), projektant wizualizacji HMI, a także inżynier posiadający wiedzę z zakresu IT oraz elektroniki.</li>
+	</ul>
+</section>
 
-Wspieram projekty i współpracuję w obszarach m.in.: **testy produktu, rozwój systemów elektronicznych, automatyzacja testów i rozwój laboratoriów R&D**.  
-Zapraszam do kontaktu.
-
-## Kilka słów o moim doświadczeniu
-
-- Doświadczony Specjalista ds. Weryfikacji i Walidacji systemów elektronicznych dla branży automotive. Współtwórca nowoczesnego laboratorium R&D oraz deweloper testów automatycznych zgodnych ze standardami automotive.
-- Inżynier ds. testów produktu dla branży elektroniki mocy, doświadczony w testach kwalifikacyjnych produktu (normy IEC/UL) oraz pracy w laboratorium badawczo-rozwojowym. Współtwórca laboratorium R&D w zakresie doboru rozwiązań technicznych, koordynacji prac, a także udziału w akredytacji ANAB/UL.
-- Inżynier Automatyk z dużym doświadczeniem we wdrażaniu nowych rozwiązań, modyfikacji istniejących oraz diagnostyce i serwisie instalacji automatyki. Programista PLC (online/offline), projektant wizualizacji HMI, a także inżynier posiadający wiedzę z zakresu IT oraz elektroniki.
-
-## Najważniejsze umiejętności
-
-- ISTQB Certified Tester
-- Elektronika
-- Testy walidacyjne
-- CANoe
-- Automotive SPICE
+<section style="max-width:800px;margin:0 auto 2em auto;padding:1.5em 1.5em 1em 1.5em;background:#e3e3e3;border-radius:1.2em;box-shadow:0 2px 12px 0 rgba(194,178,128,0.08);">
+	<h2 style="color:#c2b280;margin-top:0;">Najważniejsze umiejętności</h2>
+	<ul style="display:flex;flex-wrap:wrap;gap:12px;list-style:none;padding:0;margin:0;">
+		<li style="background:#fff7e6;color:#c2b280;padding:8px 18px;border-radius:16px;font-size:1.08em;font-weight:500;box-shadow:0 1px 6px rgba(0,198,255,0.06);">ISTQB Certified Tester</li>
+		<li style="background:#fff7e6;color:#c2b280;padding:8px 18px;border-radius:16px;font-size:1.08em;font-weight:500;box-shadow:0 1px 6px rgba(0,198,255,0.06);">Elektronika</li>
+		<li style="background:#fff7e6;color:#c2b280;padding:8px 18px;border-radius:16px;font-size:1.08em;font-weight:500;box-shadow:0 1px 6px rgba(0,198,255,0.06);">Testy walidacyjne</li>
+		<li style="background:#fff7e6;color:#c2b280;padding:8px 18px;border-radius:16px;font-size:1.08em;font-weight:500;box-shadow:0 1px 6px rgba(0,198,255,0.06);">CANoe</li>
+		<li style="background:#fff7e6;color:#c2b280;padding:8px 18px;border-radius:16px;font-size:1.08em;font-weight:500;box-shadow:0 1px 6px rgba(0,198,255,0.06);">Automotive SPICE</li>
+	</ul>
+</section>
