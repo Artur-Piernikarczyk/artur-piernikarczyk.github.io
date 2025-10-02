@@ -10,8 +10,9 @@ url: "https://artur-piernikarczyk.github.io"
 baseurl: ""
 
 # Ustawienia builda
+
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 
 # Wyklucz katalogi
 exclude:
