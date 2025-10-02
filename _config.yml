@@ -1,0 +1,21 @@
+# Jekyll configuration
+
+# Tytuł strony
+name: Artur Piernikarczyk
+# Opis strony
+description: Strona domowa Artura Piernikarczyka
+# URL strony (możesz zmienić na swój adres)
+url: "https://artur-piernikarczyk.github.io"
+# Ścieżka bazowa (jeśli strona jest w podfolderze)
+baseurl: ""
+
+# Ustawienia builda
+markdown: kramdown
+theme: minima
+
+# Wyklucz katalogi
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
