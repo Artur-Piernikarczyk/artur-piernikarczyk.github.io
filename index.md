@@ -1,7 +1,7 @@
 ---
 
 <div style="display:flex;align-items:center;justify-content:center;flex-direction:column;background:linear-gradient(135deg,#c2b280 0%,#e3e3e3 100%);padding:2.5em 1em 2em 1em;border-radius:1.5em;margin-bottom:2em;box-shadow:0 4px 32px 0 rgba(194,178,128,0.12);">
-	<img src="/assets/img/profilowe.jfif" alt="Profilowe Artur Piernikarczyk" style="width:160px;height:160px;object-fit:cover;border-radius:50%;box-shadow:0 2px 16px #b2bec3; margin-bottom:1em;">
+	<img src="/assets/img/1.png" alt="Profilowe Artur Piernikarczyk" style="width:160px;height:160px;object-fit:cover;border-radius:50%;box-shadow:0 2px 16px #b2bec3; margin-bottom:1em;">
 	<h1 style="margin:0;font-size:2.5em;font-weight:700;color:#232526;letter-spacing:1px;">Artur Piernikarczyk</h1>
 	<div style="font-size:1.2em;color:#6c6c6c;font-weight:500;margin-top:0.5em;text-align:center;max-width:600px;">
 		V&amp;V Specialist &bull; Embedded Systems Engineer &bull; R&amp;D-Driven Innovator &bull; Test Automation Architect
