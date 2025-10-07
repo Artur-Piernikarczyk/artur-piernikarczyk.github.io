@@ -13,11 +13,6 @@
 	<p style="font-size:1.1em;line-height:1.7;color:#232526;">
 		Wspieram projekty i współpracuję w obszarach m.in.: <b>testy produktu, rozwój systemów elektronicznych, automatyzacja testów i rozwój laboratoriów R&amp;D</b>.<br>
 		<span style="color:#b2bec3;font-weight:500;">Zapraszam do kontaktu.</span>
-	</p>
-</section>
-
-<section style="max-width:800px;margin:0 auto 2em auto;padding:1.5em 1.5em 1em 1.5em;background:#f5e9da;border-radius:1.2em;box-shadow:0 2px 12px 0 rgba(194,178,128,0.08);">
-	<h2 style="color:#c2b280;margin-top:0;">Kilka słów o moim doświadczeniu</h2>
 	<ul style="font-size:1.08em;line-height:1.7;color:#232526;">
 		<li>Doświadczony Specjalista ds. Weryfikacji i Walidacji systemów elektronicznych dla branży automotive. Współtwórca nowoczesnego laboratorium R&amp;D oraz deweloper testów automatycznych zgodnych ze standardami automotive.</li>
 		<li>Inżynier ds. testów produktu dla branży elektroniki mocy, doświadczony w testach kwalifikacyjnych produktu (normy IEC/UL) oraz pracy w laboratorium badawczo-rozwojowym. Współtwórca laboratorium R&amp;D w zakresie doboru rozwiązań technicznych, koordynacji prac, a także udziału w akredytacji ANAB/UL.</li>
